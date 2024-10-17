@@ -1,3 +1,4 @@
+print("Mejia Suarez Emmanuel Alexander_3w_1197")
 # Crear un diccionario vacio
 informacion_persona = {}
 
